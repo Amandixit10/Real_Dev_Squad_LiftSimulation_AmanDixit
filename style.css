@@ -1,0 +1,33 @@
+
+.floor{
+height: 540px;
+width: 800px;
+}
+.buttonUp{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+text-align: center;
+padding-left: 14px;
+padding-right: 14px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10%;
+    box-sizing: content-box;
+    margin:5px;
+}
+
+.buttonDown{
+    background-color: #f9ba00; /* orange */
+    border: none;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10%;
+    box-sizing:content-box;
+    margin: 5px;
+}
